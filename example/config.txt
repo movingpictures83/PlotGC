@@ -1,0 +1,2 @@
+Prefix plugins/PlotGC/example/
+Plugin PlotGC inputfile knots.rds outputfile plotGC.pdf
